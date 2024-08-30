@@ -13,7 +13,7 @@ This project is built using the following technologies and libraries:
 ### Prerequisites
 * Node.js (v14 or later)
 * npm (v6 or later)
-* Firebase project with Firestore enabled
+
 
 ### Installation
 1. Clone the repository:
